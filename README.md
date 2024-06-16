@@ -1,7 +1,5 @@
 # NotePad
 
-# AK Notepad
-
 AK Notepad is a simple and user-friendly text editor built with Python's Tkinter library. It provides basic text editing features along with some additional functionalities like font customization, text alignment, and color themes.
 
 ## Features
@@ -103,4 +101,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 AFTAB ALAM - [aftablamkhan8391@gmail.com](mailto:aftablamkhan8391@gmail.com)
 
-Project Link: [https://github.com/Coder-786hub/ak-notepad](https://github.com/Coder-786hub/ak-notepad)
+Project Link: [https://github.com/Coder-786hub/NotePad](https://github.com/Coder-786hub/NotePad)
