@@ -20,7 +20,7 @@ AK Notepad is a simple and user-friendly text editor built with Python's Tkinter
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/ak-notepad.git
+    git clone https://github.com/Coder-786hub/ak-notepad.git
     ```
 
 2. **Navigate to the project directory:**
